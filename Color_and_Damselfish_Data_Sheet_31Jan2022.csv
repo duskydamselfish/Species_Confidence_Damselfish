@@ -1,0 +1,132 @@
+Trial,Date,Location,Time,Beaufort,Rain,Habitat,Depth_cm,Treatment_color,Fish_size_cm,Group_size ,Observer,ED_cm,SD_cm,FID,Notes:,Temperature_C,Live_coral_cover,Dead_coral_cover,Algae_cover,Rubble_cover,Sand,Sum,Hard_substrate_cover,RGB_color_difference,HSB_color_difference
+6,17-Jan-2022,Sailing School,9:20,2,yes,Bommie,,Black,9,4,Elle,110,165,55,,,16,42,0,0,23,81,58,65.34523701,23.85372088
+7,17-Jan-2022,Sailing School,9:30,2,yes,Bommie,,Blue,8,1,Elle,105,160,55,,,27,15,10,0,29,81,42,34.3220046,35.07135583
+8,17-Jan-2022,Sailing School,9:45,2,yes,Bommie,,Yellow,6,2,Elle,110,150,40,,,1,43,5,0,32,81,44,57.66281297,38.13135193
+11,17-Jan-2022,Sailing School,10:27,1,no,Bommie,,Blue,7,5,Elle,105,150,45,,,12,63,3,0,3,81,75,27.5680975,22.02271555
+12,17-Jan-2022,Sailing School,10:35,1,no,Bommie,,Yellow,9,3,Elle,90,160,70,,,1,50,16,2,12,81,51,61.32699243,41.53311931
+15,17-Jan-2022,Sailing School,14:10,2,no,Bommie,,Blue,8,5,Elle,114,169,55,,28,0,66,12,0,3,81,66,43.84062043,17.32050808
+16,17-Jan-2022,Sailing School,14:22,2,no,Bommie,134,Yellow,6,2,Elle,126,168,42,,28,3,37,14,7,20,81,40,57.01754116,76.92203845
+17,17-Jan-2022,Sailing School,14:40,2,yes,Contiguous,110, Conspecific,7,3,Elle,115,147,32,Fish came towards stimuli before fleeing,28,30,28,11,1,11,81,58,64.02343321,38.61346915
+18,17-Jan-2022,Sailing School,14:50,2,no,Bommie,110,Black,7,1,Elle,85,150,65,,27,1,32,13,0,35,81,33,124.9559923,47.19110086
+19,17-Jan-2022,Sailing School,15:02,1,no,Bommie,105,Blue,13,5,Elle,117,163,46,,28,22,55,4,0,0,81,77,26.19160171,13.74772708
+20,17-Jan-2022,Sailing School,15:09,1,no,Bommie,140,Yellow,10,1,Elle,145,185,40,,28,12,25,18,0,26,81,37,81.96340647,126.6885946
+21,17-Jan-2022,Sailing School,15:18,1,no,Bommie,110, Conspecific,11,8,Elle,150,180,30,,28,16,51,11,3,0,81,67,79.67433715,40.16217126
+22,17-Jan-2022,Sailing School,15:39,1,no,Bommie,110,Black,9,8,Elle,130,178,48,,28,0,65,16,0,0,81,65,92.17917335,38.37968212
+23,17-Jan-2022,Sailing School,15:48,1,no,Bommie,85,Blue,9,2,Elle,135,170,35,,28,0,73,8,0,0,81,73,36.59234893,34.19064199
+24,17-Jan-2022,Sailing School,15:54,1,no,Contiguous,102,Yellow,10,1,Elle,112,159,47,,28,0,5,52,3,21,81,5,56.96490147,72.67736924
+25,17-Jan-2022,Sailing School,16:02,1,no,Bommie,108, Conspecific,10,5,Elle,168,189,21,,28,7,74,0,0,0,81,81,87.02873089,40.11234224
+42,19-Jan2022,Sailing School,13:50,2,yes,Contiguous,110,Black,10,1,Elle,99,160,61,,28,11,17,15,0,38,81,28,141.0035461,54.35071297
+43,19-Jan2022,Sailing School,13:53,1,yes,Bommie,108,Blue,12,4,Elle,149,185,36,,28,0,33,42,3,3,81,33,53.37602458,28.86173938
+44,19-Jan2022,Sailing School,14:00,1,yes,Contiguous,132,Yellow,14,5,Elle,135,187,52,,28,2,47,3,4,25,81,49,76.57675888,89.07300377
+45,19-Jan2022,Sailing School,14:11,1,yes,Bommie,136, Conspecific,15,4,Elle,144,180,36,,28,5,72,2,1,1,81,77,97.69851585,33.346664
+46,19-Jan2022,Sailing School,14:22,1,no,Bommie,134,Black,12,2,Elle,141,190,49,,28,6,59,2,0,14,81,65,116.0861749,44.05678154
+47,19-Jan2022,Sailing School,14:26,1,no,Bommie,116,Blue,9,5,Elle,136,181,45,,28,16,57,7,0,1,81,73,24.81934729,12.08304597
+48,19-Jan2022,Sailing School,14:36,1,no,Bommie,115,Yellow,10,4,Elle,132,184,52,,28,7,67,7,0,0,81,74,88.73556221,110.6616465
+49,19-Jan2022,Sailing School,14:50,1,no,Bommie,123, Conspecific,10,3,Elle,131,172,41,,28,0,70,4,2,5,81,70,91.61877537,61.3025285
+50,19-Jan2022,Sailing School,14:56,2,no,Bommie,108,Black,10,1,Elle,92,168,76,,28,0,60,21,0,0,81,60,102.2007828,34.3220046
+51,19-Jan2022,Sailing School,15:03,1,no,Bommie,146,Blue,13,1,Elle,86,149,63,,28,0,64,14,2,1,81,64,21.65640783,16.03121954
+52,19-Jan2022,Sailing School,15:08,1,no,Contiguous,125,Yellow,14,5,Elle,147,193,46,,28,13,60,7,0,1,81,73,71.03520254,113.6529806
+53,19-Jan2022,Sailing School,15:25,3,yes,Contiguous,97, Conspecific,8,2,Elle,121,149,28,,28,8,16,33,12,12,81,24,99.78476838,35.28455753
+54,21-Jan2022,Sailing School,7:21,1,no,Bommie,109,Black,11,1,Elle,107,148,41,,27,4,38,8,6,25,81,42,92.70382948,27.09243437
+55,21-Jan2022,Sailing School,7:28,1,no,Bommie,143,Blue,13,2,Elle,133,179,46,,28,11,54,6,0,10,81,65,30.56141358,19.94993734
+56,21-Jan2022,Sailing School,7:33,1,no,Bommie,105,Yellow,16,10,Elle,97,175,78,,27,7,69,1,4,0,81,76,77.49838708,173.3724315
+57,21-Jan2022,Sailing School,7:39,1,no,Bommie,140, Conspecific,15,3,Elle,146,182,36,,27,8,73,0,0,0,81,81,97.08758932,85.0529247
+58,21-Jan2022,Sailing School,7:42,2,no,Bommie,127,Black,18,2,Elle,133,186,53,,27,2,51,15,3,10,81,53,168.3656735,66.59579566
+59,21-Jan2022,Sailing School,7:49,2,no,Bommie,95,Blue,17,3,Elle,106,177,71,,27,21,56,1,2,1,81,77,126.574089,27.5317998
+60,21-Jan2022,Sailing School,7:55,2,no,Bommie,71,Yellow,18,2,Elle,136,200,64,,27,1,71,6,2,1,81,72,92.33092656,158.3856054
+61,21-Jan2022,Sailing School,8:00,1,no,Bommie,104, Conspecific,11,1,Elle,108,140,32,fish swam towards stimuli before fleeing,27,5,36,27,2,11,81,,56.83308895,176.5729311
+62,21-Jan2022,Sailing School,8:09,1,no,Bommie,111,Black,15,11,Elle,146,190,44,,27,12,67,2,0,0,81,79,182.8578683,65.19202405
+63,21-Jan2022,Sailing School,8:16,1,no,Contiguous,106,Blue,17,3,Elle,122,181,59,,27,6,75,0,0,0,81,81,33.18132005,23.85372088
+64,21-Jan2022,Sailing School,8:22,2,no,Contiguous,130,Yellow,10,1,Elle,141,200,59,,27,0,61,2,9,9,81,61,74.89325737,152.446712
+65,21-Jan2022,Sailing School,8:28,3,no,Bommie,115, Conspecific,19,2,Elle,117,188,71,,27,0,69,12,0,0,81,69,111.4001795,72.78049189
+66,21-Jan2022,Sailing School,8:45,1,no,Bommie,115,Black,16,2,Elle,154,200,46,,27,9,70,0,1,1,81,79,186.1101824,60.00833275
+67,21-Jan2022,Sailing School,8:48,2,yes,Bommie,127,Blue,13,2,Elle,127,180,53,,27,0,57,14,6,4,81,57,23.9582971,15.74801575
+68,21-Jan2022,Sailing School,9:01,1,yes,Bommie,108,Yellow,11,3,Elle,125,170,45,,27,0,73,8,0,0,81,73,84.02975663,108.480413
+69,21-Jan2022,Sailing School,9:12,1,no,Contiguous,98, Conspecific,12,4,Elle,128,176,48,,27,0,63,18,0,0,81,63,95.43060306,63.15061362
+70,21-Jan2022,Sailing School,9:18,1,no,Bommie,109,Black,16,7,Elle,109,178,69,,27,0,62,19,0,0,81,62,104.3886967,31.12876483
+71,21-Jan2022,Sailing School,9:24,1,yes,Bommie,115,Blue,14,3,Elle,131,182,51,,27,0,56,25,0,0,81,56,51.15662225,29.84962311
+72,21-Jan2022,Sailing School,9:30,1,yes,Bommie,115,Yellow,15,5,Elle,139,190,51,,27,5,68,8,0,0,81,73,75.33259587,109.1146186
+73,21-Jan2022,Sailing School,9:35,1,no,Bommie,135, Conspecific,13,2,Elle,142,178,36,,27,6,63,3,3,6,81,69,103.7063161,78.24321057
+74,21-Jan2022,Sailing School,9:40,1,no,Contiguous,160,Black,13,2,Elle,120,186,66,,27,12,68,1,0,0,81,80,98.02550688,31.90611227
+75,21-Jan2022,Sailing School,9:45,1,no,Bommie,107,Blue,15,9,Elle,146,200,54,,27,18,60,3,0,0,81,78,17.94435844,11.44552314
+76,21-Jan2022,Sailing School,9:49,1,no,Bommie,125,Yellow,17,7,Elle,128,179,51,,27,8,57,13,0,3,81,65,53.26349594,62.17716623
+77,21-Jan2022,Sailing School,9:56,1,no,Contiguous,140, Conspecific,14,7,Elle,107,169,62,,27,0,65,15,0,1,81,65,105.8536726,45.475268
+78,21-Jan2022,Sailing School,14:40,1,no,Bommie,111,Black,13,3,Elle,144,189,45,,27,0,45,36,0,0,81,45,96.04165763,27.65863337
+79,21-Jan2022,Sailing School,14:43,1,no,Contiguous,126,Blue,11,3,Elle,153,200,47,,27,33,20,15,4,9,81,53,49.2036584,30.95157508
+80,21-Jan2022,Sailing School,14:48,1,no,Bommie,141,Yellow,12,6,Elle,83,164,81,,27,0,66,7,3,5,81,66,83.83316766,103.7737925
+81,21-Jan2022,Sailing School,14:55,1,no,Bommie,135, Conspecific,10,5,Elle,93,152,59,,27,0,76,5,0,0,81,76,84.65222974,52.39274759
+82,21-Jan2022,Sailing School,15:00,1,no,Bommie,127,Black,10,6,Elle,99,162,63,,27,0,63,15,3,0,81,63,98.44287684,36.26292873
+83,21-Jan2022,Sailing School,15:07,1,no,Bommie,114,Blue,14,4,Elle,120,184,64,,27,16,50,15,0,0,81,66,23.40939982,14.56021978
+84,21-Jan2022,Sailing School,15:13,1,no,Bommie,99,Yellow,13,2,Elle,84,187,103,,27,0,67,14,0,0,81,67,53.03772242,69.6634768
+85,21-Jan2022,Sailing School,15:18,1,no,Bommie,109, Conspecific,17,2,Elle,111,145,34,,27,32,39,10,0,0,81,71,93.54143467,32.75667871
+86,21-Jan2022,Sailing School,15:26,1,no,Bommie,127,Black,10,2,Elle,122,168,46,,27,2,67,9,0,3,81,69,96.45724441,41.58124577
+87,21-Jan2022,Sailing School,15:35,1,no,Bommie,135,Blue,15,5,Elle,114,179,65,,27,0,75,6,0,0,81,75,34.07345007,11.5758369
+88,21-Jan2022,Sailing School,15:37,1,no,Bommie,120,Yellow,17,3,Elle,96,170,74,,27,4,76,1,0,0,81,80,71.18286311,111.0900536
+89,21-Jan2022,Sailing School,15:47,1,no,Bommie,110, Conspecific,13,2,Elle,133,168,35,,27,2,74,3,2,0,81,76,36.85105155,29.08607914
+90,21-Jan2022,Sailing School,15:53,1,no,Bommie,105,Black,14,2,Elle,123,175,52,,27,4,69,6,1,1,81,73,50.39841267,16.91153453
+91,21-Jan2022,Sailing School,16:00,1,no,Bommie,105,Blue,18,2,Elle,116,174,58,,27,0,57,17,3,4,81,57,51.67204273,22.20360331
+92,21-Jan2022,Sailing School,16:06,1,no,Bommie,87,Yellow,13,1,Elle,104,169,65,,27,0,73,2,0,6,81,73,70.80960387,58.32666629
+93,21-Jan2022,Sailing School,16:10,1,no,Bommie,85, Conspecific,13,1,Elle,95,124,29,,,,,,,,,,37.17526059,10
+94,23-Jan2022,Sailing School,7:21,1,no,Contiguous,80,Black,11,3,Elle,118,171,53,,27,3,59,3,1,15,81,62,44.68780594,19.94993734
+95,23-Jan2022,Sailing School,7:24,1,no,Contiguous,81,Blue,10,1,Elle,111,167,56,,27,7,44,7,19,4,81,51,45.35416188,18.49324201
+96,23-Jan2022,Sailing School,7:27,1,no,Contiguous,75,Yellow,16,5,Elle,124,178,54,,27,2,54,11,3,11,81,56,64.45153218,64.02343321
+97,23-Jan2022,Sailing School,7:33,1,no,Contiguous,110, Conspecific,9,4,Elle,120,170,50,,27,0,63,1,0,17,81,63,63.39558344,45.32107677
+98,23-Jan2022,Sailing School,7:38,1,no,Contiguous,74,Black,17,2,Elle,149,200,51,,27,0,78,1,0,2,81,78,106.179094,38.92300091
+99,23-Jan2022,Sailing School,7:43,1,no,Contiguous,69,Blue,12,2,Elle,122,188,66,,27,2,64,6,2,7,81,66,26.57066051,19.8242276
+100,23-Jan2022,Sailing School,7:49,1,no,Contiguous,57,Yellow,9,1,Elle,117,171,54,,27,0,26,46,7,2,81,26,42.35563717,36.72873534
+101,23-Jan2022,Sailing School,7:56,1,no,Bommie,82, Conspecific,13,6,Elle,149,183,34,,27,0,59,22,0,0,81,59,81.04936767,34.89985673
+102,23-Jan2022,Sailing School,8:12,2,yes,Contiguous,94,Black,17,3,Elle,109,200,91,,27,0,47,9,6,19,81,47,115.3473017,34.0147027
+103,23-Jan2022,Sailing School,8:17,2,yes,Contiguous,93,Blue,13,5,Elle,141,190,49,,27,1,72,4,4,0,81,73,15.62049935,13.19090596
+104,23-Jan2022,Sailing School,8:22,1,no,Bommie,106,Yellow,12,6,Elle,142,200,58,,27,9,69,3,0,0,81,78,107.3033084,117.7200068
+105,23-Jan2022,Sailing School,8:28,1,no,Contiguous,114, Conspecific,14,5,Elle,144,174,30,,27,0,60,9,1,11,81,60,94.62557794,47.9165942
+106,23-Jan2022,Sailing School,8:34,1,no,Contiguous,106,Black,11,2,Elle,139,188,49,,27,0,8,61,1,11,81,8,87.48714191,28.60069929
+107,23-Jan2022,Sailing School,8:47,1,no,Contiguous,74,Blue,12,3,Elle,113,176,63,,27,1,54,23,0,3,81,55,25.94224354,16.15549442
+108,23-Jan2022,Sailing School,8:51,1,no,Contiguous,40,Yellow,11,2,Elle,126,179,53,,27,0,49,23,3,6,81,49,55.79426494,43.68065934
+109,23-Jan2022,Sailing School,8:58,1,no,Contiguous,103, Conspecific,9,2,Elle,135,180,45,,27,0,12,66,0,3,81,12,61.52235366,26.2488095
+110,23-Jan2022,Sailing School,9:04,1,no,Contiguous,75,Black,11,1,Elle,127,183,56,,27,1,77,3,0,0,81,78,131.1182672,51.46843693
+111,23-Jan2022,Sailing School,9:17,1,no,Contiguous,65,Blue,10,1,Elle,97,168,71,,27,0,67,13,0,1,81,67,25.19920634,17.4642492
+112,23-Jan2022,Sailing School,9:24,1,no,Contiguous,81,Yellow,12,2,Elle,148,190,42,,27,7,34,17,3,20,81,41,39.62322551,42.02380278
+113,23-Jan2022,Sailing School,9:33,1,no,Contiguous,75, Conspecific,12,1,Elle,112,147,35,,27,0,45,30,0,6,81,45,85.11756575,29.08607914
+114,23-Jan2022,Sailing School,10:02,1,no,Contiguous,66,Black,13,2,Elle,129,186,57,,27,3,48,13,0,17,81,51,43.18564576,19.74841766
+115,23-Jan2022,Sailing School,10:05,1,no,Contiguous,74,Blue,15,1,Elle,156,200,44,,27,17,18,20,0,26,81,35,53.48831648,24.8394847
+116,23-Jan2022,Sailing School,10:08,1,no,Contiguous,50,Yellow,9,3,Elle,96,162,66,,27,29,19,4,3,26,81,48,73.99324293,72.71863585
+117,23-Jan2022,Sailing School,10:20,1,no,Bommie,59, Conspecific,9,4,Elle,122,163,41,,27,0,11,36,0,34,81,11,101.6169277,26.47640459
+118,23-Jan2022,Sailing School,13:31,1,no,Bommie,96,Black,11,4,Elle,141,195,54,,28,0,77,4,0,0,81,77,112.6587768,32.26453161
+119,23-Jan2022,Sailing School,13:34,1,no,Bommie,107,Blue,12,4,Elle,150,200,50,,28,22,39,20,0,0,81,61,54.19409562,27.03701167
+120,23-Jan2022,Sailing School,13:42,1,no,Contiguous,108,Yellow,10,2,Elle,131,183,52,,28,3,39,29,0,10,81,42,39.44616585,142.4008427
+121,23-Jan2022,Sailing School,13:47,1,no,Bommie,90, Conspecific,9,4,Elle,132,184,52,,28,1,57,22,1,0,81,58,82.95179323,23.19482701
+122,23-Jan2022,Sailing School,13:54,1,no,Bommie,145,Black,11,1,Elle,154,200,46,,28,0,24,39,2,16,81,24,104.5035885,28.08914381
+123,23-Jan2022,Sailing School,14:00,1,no,Bommie,133,Blue,15,3,Elle,121,185,64,,28,7,68,6,0,0,81,75,32.89376841,20.90454496
+124,23-Jan2022,Sailing School,14:07,1,no,Bommie,112,Yellow,8,2,Elle,149,200,51,,28,0,66,15,0,0,81,66,134.643975,39.63584237
+125,23-Jan2022,Sailing School,14:14,1,no,Bommie,89, Conspecific,10,2,Elle,139,176,37,,28,1,57,18,5,0,81,58,39.63584237,27.73084925
+126,23-Jan2022,Sailing School,14:17,1,no,Contiguous,121,Black,11,2,Elle,132,189,57,,28,0,58,23,0,0,81,58,123.4949392,34.79942528
+127,23-Jan2022,Sailing School,14:22,1,no,Bommie,100,Blue,9,3,Elle,122,180,58,,28,7,58,4,5,7,81,65,58.06031347,21.42428529
+128,23-Jan2022,Sailing School,14:28,1,no,Contiguous,104,Yellow,8,8,Elle,118,165,47,,28,0,51,29,1,0,81,51,69.07242576,61.81423784
+129,23-Jan2022,Sailing School,14:34,1,no,Contiguous,114, Conspecific,9,12,Elle,156,179,23,,28,1,58,22,0,0,81,59,59.9082632,17.11724277
+130,23-Jan2022,Sailing School,14:39,1,no,Bommie,109,Black,15,3,Elle,131,175,44,forgot a photo,28,0,47,20,4,10,81,47,,
+131,23-Jan2022,Sailing School,14:43,2,no,Bommie,95,Blue,18,5,Elle,104,182,78,,28,0,60,7,6,8,81,60,29.06888371,17.80449381
+132,23-Jan2022,Sailing School,14:47,2,no,Contiguous,96,Yellow,13,2,Elle,118,190,72,,28,4,57,12,8,0,81,61,61.55485359,53.61902647
+133,23-Jan2022,Sailing School,14:54,1,no,Contiguous,93, Conspecific,17,7,Elle,147,181,34,,28,0,64,16,0,1,81,64,109.9363452,41.53311931
+134,23-Jan2022,Sailing School,15:00,1,no,Bommie,109,Black,10,3,Elle,136,179,43,,28,0,37,44,0,0,81,37,115.7367703,37.68288736
+135,23-Jan2022,Sailing School,15:07,1,no,Contiguous,130,Blue,10,15,Elle,110,160,50,,28,0,71,6,4,0,81,71,45,19.41648784
+136,23-Jan2022,Sailing School,15:12,1,no,Contiguous,150,Yellow,13,5,Elle,131,187,56,,28,0,70,2,2,7,81,70,61.3025285,78.94935085
+137,23-Jan2022,Sailing School,15:17,1,no,Contiguous,125, Conspecific,11,1,Elle,121,166,45,,28,1,67,10,3,0,81,68,106.0471593,103.5470907
+138,25-Jan2022,Sailing School,13:16,1,no,Bommie,144,Black,11,2,Elle,148,192,44,strong current,28,3,45,5,10,18,81,48,75.27283707,21.30727575
+139,25-Jan2022,Sailing School,13:19,1,no,Bommie,125,Blue,16,2,Elle,116,188,72,strong current,28,2,76,1,1,1,81,78,7.874007874,3.605551275
+140,25-Jan2022,Sailing School,13:26,2,no,Bommie,112,Yellow,9,1,Elle,111,184,73,strong current,28,1,63,16,0,1,81,64,49.2138192,31.20897307
+141,25-Jan2022,Sailing School,13:34,2,no,Bommie,123, Conspecific,17,1,Elle,124,174,50,strong current,28,1,67,12,1,0,81,68,84.17244205,24.2693222
+142,25-Jan2022,Sailing School,13:38,2,no,Bommie,91,Black,8,6,Elle,106,183,77,strong current,28,0,69,12,0,0,81,69,55.72252686,14.86606875
+143,25-Jan2022,Sailing School,13:43,2,no,Bommie,97,Blue,15,7,Elle,141,194,53,strong current,28,0,71,10,0,0,81,71,30.08321791,10.29563014
+145,25-Jan2022,Sailing School,13:50,2,no,Contiguous,109, Conspecific,9,3,Elle,119,168,49,strong current,28,3,61,10,7,0,81,64,87.98863563,26.98147513
+146,25-Jan2022,Sailing School,13:54,2,no,Contiguous,108,Black,10,2,Elle,141,196,55,strong current,28,0,56,25,0,0,81,56,114.7170432,30.56141358
+147,25-Jan2022,Sailing School,13:56,1,no,Contiguous,93,Blue,14,5,Elle,135,197,62,strong current,28,0,57,15,9,0,81,57,24.69817807,10.77032961
+148,25-Jan2022,Sailing School,14:10,2,no,Bommie,107,Yellow,18,3,Elle,132,179,47,strong current,28,1,60,20,0,0,81,61,80.43631021,37.26929031
+149,25-Jan2022,Sailing School,14:15,2,no,Contiguous,94, Conspecific,10,4,Elle,151,170,19,strong current,28,0,35,34,12,0,81,35,64.01562309,20.83266666
+150,25-Jan2022,Sailing School,14:20,2,no,Contiguous,106,Black,15,2,Elle,146,192,46,strong current,28,0,69,12,0,0,81,69,93.65361712,24.22808288
+151,25-Jan2022,Sailing School,14:25,2,no,Contiguous,109,Blue,17,3,Elle,117,179,62,strong current,28,0,67,8,6,0,81,67,25.3179778,13.6381817
+152,25-Jan2022,Sailing School,14:31,1,no,Contiguous,105,Yellow,19,3,Elle,124,186,62,strong current,28,3,39,7,28,4,81,42,65.19202405,42.84857057
+153,25-Jan2022,Sailing School,14:36,1,no,Contiguous,135, Conspecific,12,2,Elle,147,178,31,strong current,28,0,68,10,0,3,81,68,116.952982,37.65634077
+154,25-Jan2022,Sailing School,14:42,1,no,Contiguous,150,Black,18,4,Elle,134,198,64,strong current,28,3,64,6,1,7,81,67,121.9713081,33.55592347
+155,25-Jan2022,Sailing School,14:47,1,no,Contiguous,162,Blue,7,3,Elle,133,190,57,strong current,28,1,32,25,16,7,81,33,49.37610758,13.19090596
+156,25-Jan2022,Sailing School,14:52,1,no,Contiguous,114,Yellow,11,4,Elle,124,192,68,strong current,28,0,53,23,5,0,81,53,48.7954916,40.95119046
+157,25-Jan2022,Sailing School,15:00,1,no,Contiguous,140, Conspecific,13,5,Elle,134,171,37,strong current,28,3,57,3,18,0,81,60,119.3984925,37.6696164
