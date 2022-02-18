@@ -47,7 +47,7 @@ library(nloptr)
 setwd("~/Desktop")
 
 #load in raw data
-color_data <- read.csv("Color_and_Damselfish_Data_Sheet_27Jan2022.csv", header=T)
+color_data <- read.csv("Color_and_Damselfish_Data_Sheet_31Jan2022.csv", header=T)
 size_data <- read.csv("size_error.csv", header=T)
 
 #remove all SD lower than 141
